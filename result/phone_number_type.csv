@@ -1,0 +1,3 @@
+type,phone_number_type_id,created_date,updated_date,created_by,updated_by
+home,1,2023-04-15T20:28:05.980+0000,2023-04-15T20:28:05.980+0000,admin,admin
+cell,2,2023-04-15T20:28:05.980+0000,2023-04-15T20:28:05.980+0000,admin,admin
